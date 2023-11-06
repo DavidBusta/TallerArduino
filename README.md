@@ -13,15 +13,15 @@
 
 ## 🔍 Información del Taller
 
-- *Duración:* 2 horas
-- *Fecha y Hora:* X de Noviembre de 2023, 18:00 - 20:00
-- *Lugar:* [Facultad de Artes, Universidad de Chile](https://maps.app.goo.gl/jWLTspcBS5QZggna6). Compañía 1264, Santiago de Chile. Sala Experimental (Segundo Piso)
-- *Instructor:* [David Bustamante Fontecilla](https://patricio-isaias.super.site/), Licenciado en Artes mención Composición Musical
+- *Duración:* 3 horas
+- *Fecha y Hora:* X de Noviembre de 2023
+- *Lugar:* [Facultad de Artes, Universidad de Chile](https://maps.app.goo.gl/jWLTspcBS5QZggna6). Compañía 1264, Santiago de Chile.
+- *Instructor:* David Bustamante Fontecilla, Licenciado en Artes mención Composición Musical
 - *Coste:* Actividad gratuita con inscripción previa
 
 ## 🎯 Objetivo del Taller
 
-El objetivo de este taller es introducir a los participantes en el mundo de la programación creativa utilizando Arduino. Aprenderán a conectar y programar sensores para intercambiar datos entre los softwares Arduino IDE y Max/msp. Al final del taller, los participantes obtendrán nociones básicas acerca del manejo de montajes eléctricos y su uso creativo.
+Introducir a los participantes en el mundo de la programación creativa utilizando Arduino. Aprenderán a conectar y programar sensores para intercambiar datos entre los softwares Arduino IDE y Max/msp. Al final del taller, los participantes obtendrán nociones básicas acerca del manejo de montajes eléctricos y su uso creativo.
 
 
 ## 📋 Requisitos
