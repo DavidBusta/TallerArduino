@@ -46,7 +46,7 @@ Para participar en este taller, sigue estos pasos:
 
 ## 📚 Programa
 
-### Parte 1: Primeros pasos y Conceptos Básicos
+### Parte 1: Primeros pasos y Conceptos Básicos (1 hr 30 min)
 
 #### Conceptos básicos (30 min) 
 - Electricidad: 
@@ -65,7 +65,9 @@ Para participar en este taller, sigue estos pasos:
 - Adición de un potenciómetro
 - Adición del sensor LDR
 
-### Parte 2: Montaje propio
+### Receso (15 min)
+
+### Parte 2: Montaje propio (1 hr 30 min)
 
 #### Conexión entre Arduino y Max/MSP. (30 min)
 - Comunicación serial entre Arduino y Max/msp
