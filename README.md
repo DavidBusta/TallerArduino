@@ -25,12 +25,9 @@ Introducir a los participantes en el mundo de la programación creativa utilizan
 
 ## 📋 Requisitos
 
-- *Dispositivo:* Laptop con conexión a Internet.
-- *Útiles:* Kit inicial de Arduino (recomendado). Materiales sueltos: Arduino Uno, cable usb, protoboard, cables macho-macho, LED, botón, potenciómetro, sensor LDR, Resistencias ¼ W.
-
+- *Dispositivo:* Laptop (Windows/Mac) con conexión a Internet.
+- *Útiles:* Está la opción de asistir al curso con o sin materiales. Se recomienda algún Kit inicial de Arduino. En el caso de no contar con materiales, podrán asistir como oyentes, ya que en esta ocasión no podemos financiar materiales para todos.
 - *Software* Arduino IDE y Max/msp.
-
-- *Nivel:* Principiantes, no se requieren conocimientos previos.
 
 Nota: Asegúrate de tener Max/msp instalado previamente al taller.
 
