@@ -13,11 +13,10 @@
 
 ## 🔍 Información del Taller
 
-- *Duración:* 3 horas
-- *Fecha y Hora:* X de Noviembre de 2023
+- *Duración:* 3 horas (receso de 15 min)
+- *Próxima Sesión:* La fecha, hora, lugar y coste de cada iteración del taller son variables. Visita Generative Academy para conocer los detalles sobre la próxima sesión.
 - *Lugar:* [Facultad de Artes, Universidad de Chile](https://maps.app.goo.gl/jWLTspcBS5QZggna6). Compañía 1264, Santiago de Chile.
 - *Instructor:* David Bustamante Fontecilla, Licenciado en Artes mención Composición Musical
-- *Coste:* Actividad gratuita con inscripción previa
 
 ## 🎯 Objetivo del Taller
 
@@ -40,7 +39,7 @@ Nota: Asegúrate de tener Max/msp instalado previamente al taller.
 
 Para participar en este taller, sigue estos pasos:
 
-1. Completa el [Formulario de Inscripción]() *antes del 14 de Noviembre de 2023.*
+1. Completa el [Formulario de Inscripción](https://forms.gle/VczTbXkx1KN4Fx44A)
 2. Una vez enviado el formulario, recibirás una *confirmación* por correo electrónico.
 3. *Verifica tu correo electrónico* para asegurar tu participación.
 
