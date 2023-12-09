@@ -46,7 +46,8 @@ Para participar en este taller, sigue estos pasos:
 
 #### Conceptos básicos (30 min) 
 - Electricidad: 
-    - Analogías con otros fenómenos similares: agua, ventilador, etc.
+    - Corriente continua (CC) y Corriente Alterna (CA)
+    - Analogías con otros fenómenos
 - Ley de Ohm:  
     - Resistencias (R): Ohm.
     - Corriente (I): amperios.
