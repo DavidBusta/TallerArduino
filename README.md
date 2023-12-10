@@ -44,7 +44,7 @@ Para participar en este taller, sigue estos pasos:
 
 ### Parte 1: Primeros pasos y Conceptos Básicos (1 hr 30 min)
 
-#### Conceptos básicos (30 min) 
+#### Conceptos básicos (45 min) 
 - Electricidad: 
     - Corriente continua (CC) y Corriente Alterna (CA)
     - Analogías con otros fenómenos
@@ -53,9 +53,9 @@ Para participar en este taller, sigue estos pasos:
     - Corriente (I): amperios.
     - Voltaje (V): Volts.
 - Partes relevantes de una placa Arduino (pines, entradas, salidas, etc.).
+- Componentes generales además de Arduino
 
-#### Montajes de circuitos sencillos (teórico-práctico) (1 hr)
-- Protoboard
+#### Montajes de circuitos sencillos (teórico-práctico) (45 min)
 - On/off LED pin 13
 - Conexión de un LED a Arduino
 - Adición de un botón
@@ -64,14 +64,8 @@ Para participar en este taller, sigue estos pasos:
 
 ### Receso (15 min)
 
-### Parte 2: Montaje propio (1 hr 30 min)
+### Parte 2: Conexión entre Arduino y Max/MSP. (1 hr)
 
-#### Conexión entre Arduino y Max/MSP. (30 min)
 - Comunicación serial entre Arduino y Max/msp
-    - Envío y recepción de datos entre ambos
 - Patch de ejemplos en Max/msp con parámetros modificados mediante Arduino.
 
-#### Montaje de un circuito personalizado (1 hr)
-- Planeamiento y elección de dispositivos
-- Resolución de problemas técnicos
-- Comunicación serial
