@@ -49,16 +49,16 @@ Para participar en este taller, sigue estos pasos:
     - Corriente continua (CC) y Corriente Alterna (CA)
     - Analogías con otros fenómenos
 - Ley de Ohm:  
-    - Resistencias (R): Ohm.
-    - Corriente (I): amperios.
-    - Voltaje (V): Volts.
+    - Resistencia (R)
+    - Corriente (I)
+    - Voltaje (V)
 - Partes relevantes de una placa Arduino (pines, entradas, salidas, etc.).
-- Componentes generales además de Arduino
+- Otros componentes
 
 #### Montajes de circuitos sencillos (teórico-práctico) (45 min)
 - On/off LED pin 13
-- Conexión de un LED a Arduino
-- Adición de un botón
+- Lectura de un botón a Arduino
+- Adición de un LED
 - Adición de un potenciómetro
 - Adición del sensor LDR
 
